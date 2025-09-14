@@ -18,12 +18,9 @@ A bilingual (English/Kiswahili) RAG assistant for the Kenya 2025 Finance Bill
 * [How to run (Streamlit app)](#how-to-run-streamlit-app)
 * [How it works (simple explanation)](#how-it-works-simple-explanation)
 * [Key settings to tune (and why)](#key-settings-to-tune-and-why)
-* [Debugging tips](#debugging-tips)
 * [Prompts used in this project](#prompts-used-in-this-project)
 * [Examples & expected behavior](#examples--expected-behavior)
 * [Troubleshooting](#troubleshooting)
-* [Next steps / Enhancements](#next-steps--enhancements)
-* [License & contact](#license--contact)
 
 ---
 
